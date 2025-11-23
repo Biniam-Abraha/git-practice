@@ -1,4 +1,5 @@
 # Practice with git and GitHub
+I'm Biniam and I edited this file as part of my Git intermediate practice.
 
 \[Your Step 3 Edit Here\]
 
